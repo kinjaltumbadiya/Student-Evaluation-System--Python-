@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>20111104282211801.jpg</file>
+        <file>2.jpg</file>
+        <file>NirmaUniversity_Logo.jpg</file>
+        <file>login-button-png-4.jpg</file>
+        <file>red-sign-up-button-png-5.png</file>
+        <file>login-button-png-28.png</file>
+        <file>Sign-Up-Button-Transparent-Background.png</file>
+    </qresource>
+</RCC>
